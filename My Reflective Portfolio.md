@@ -32,3 +32,28 @@ I would need to remove all my distractions within my room so that I won't lose f
 
 ### What theory proved to be useful and why? What have I learnt from this?
 N/A
+
+
+## Week 2
+
+### What have I learnt this week?
+This week I learnt about the uses of modelling and how they can help give us a better understanding of the problems of complex adaptive systems.
+
+### What do I 'now know' that I did not before?
+I did not know that all models are wrong and that many are useful.
+
+### What insights have I gained?
+That there are many different ways to use models in similar situations rather than one staple pathway. Since highschool I really enjoyed math because it was a subject that always just required to find the formula (pathway) and just plug the formula into the question but now I notice that subjects like 41189 aren't as simple and can have multiple answers.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+My weakness is that when I see the topic as something I have learnt about before such as models I tend to get overly confident and zone out often but this always comes back to bite as it is a lot more complex than I imagined. My strength is acknowledging this bad behaviour and trying to learn from my mistake.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+The only challenge I faced this week was to stay on track of the content but was easily fixed after my realisation for the depth of content.
+
+### What would I do better next time and with what anticipated results?
+To never underestimate a topic so that I won't fall behind on any topic
+
+### What theory proved to be useful and why? What have I learnt from this?
+N/A
+
