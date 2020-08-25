@@ -57,3 +57,25 @@ To never underestimate a topic so that I won't fall behind on any topic
 ### What theory proved to be useful and why? What have I learnt from this?
 N/A
 
+
+## Week 3
+
+### What have I learnt this week?
+This week I learnt about the Shapely and LOTB value
+
+### What do I 'now know' that I did not before?
+Rules of thumb often outperform the most sophisticated strategies
+
+### What insights have I gained?
+That there is numerical value when calculating an individual's value.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+I noticed that when there are math formulas I feel more confident but at the same time if there is a new math symbol that I am unaware of it takes some time to wrap my head around it.
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+I struggled to understand what certain symbols meant in the Shapely value but it was quickly solved after asking my group members for help.
+
+### What would I do better next time and with what anticipated results?
+To do better next time I should look into next weeks topics beforehand so that I will have a general understanding before the workshop.
+
+### What theory proved to be useful and why? What have I learnt from this?
+N/A
