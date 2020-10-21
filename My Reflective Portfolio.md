@@ -79,3 +79,178 @@ To do better next time I should look into next weeks topics beforehand so that I
 
 ### What theory proved to be useful and why? What have I learnt from this?
 N/A
+
+
+## Week 4
+
+### What have I learnt this week?
+I have learnt about system dynamics, networks and agent-based models.
+
+### What do I 'now know' that I did not before?
+Before I did not know about the 6 degrees of separation where we are only 6 steps away from any person across the world.
+
+### What insights have I gained?
+That there are not only so many different models that can be applied to certain scenarios but also that models have a lot more complexity and layers to it than meets the eye.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+Through the videos and diagrams that I have seen it has definitely proven that I am a visual learner but at the same time the images can be misleading.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+There were a few images that caused me confused but after asking my group I received an explanation that helped wrap my head around it.
+
+### What would I do better next time and with what anticipated results?
+Next time I should communicate with my group/class more so that I do not fall behind and understand the content at the time.
+
+### What theory proved to be useful and why? What have I learnt from this?
+N/A
+
+
+## Week 5
+
+### What have I learnt this week?
+Probability distributions, normal distributions and long-tailed distributions
+
+### What do I 'now know' that I did not before?
+That probability distributions can help model our world allowing us to obtain estimates of the probability for certain events that may occur.
+
+### What insights have I gained?
+That long-tailed distributions should not be over-seen and have sufficient probability to be of concern.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+A weakness that has been reoccurring is my ability to use github, it has been a slow process learning how to navigate through the system.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+There were no challenges I encountered this week
+
+### What would I do better next time and with what anticipated results?
+Next time I should pay attention more in class when the teacher is using github.
+### What theory proved to be useful and why? What have I learnt from this?
+N/A
+
+
+## Week 6
+
+### What have I learnt this week?
+I have learnt about random walks, broadcast, diffusion, contagion and the markov processes.
+
+### What do I 'now know' that I did not before?
+I now know how the markov convergence theorem works
+
+### What insights have I gained?
+That the results gained in memory random walks is close to what happens in the NBA, NFL and etc
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+I once again notice that when math is involved I feel a lot more confident and at ease. In this case it is the markov transition matrix multiplication.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+There was a lot of content this week (more than normal) so I decided to set aside more time for this subject so that I wouldn't fall behind.
+
+### What would I do better next time and with what anticipated results?
+Next time I would look at ahead into the future content of this subject so that I will be more prepared and ready.
+
+### What theory proved to be useful and why? What have I learnt from this?
+N/A
+
+
+## Week 7
+
+### What have I learnt this week?
+This week had a lot of heavy content and that I am very new to. The main topics of what I have learnt this week was segregation and peer effects, coordination and culture and social learning. No topic really took my interest besides the pure coordination game, it was rather interesting seeing how culture can be modelled.
+
+### What do I 'now know' that I did not before?
+I found out that things I believe could never be modelled could actually be modelled such as social learning from replicator dynamics. I didn't know that through psychology, economics and ecology you could model things such as learning, populations of people learning and evolution.
+
+### What insights have I gained?
+
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+### What would I do better next time and with what anticipated results?
+
+### What theory proved to be useful and why? What have I learnt from this?
+N/A
+
+
+## Week 8
+
+### What have I learnt this week?
+
+### What do I 'now know' that I did not before?
+
+### What insights have I gained?
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+### What would I do better next time and with what anticipated results?
+
+### What theory proved to be useful and why? What have I learnt from this?
+N/A
+
+
+## Week 9
+
+### What have I learnt this week?
+
+### What do I 'now know' that I did not before?
+
+### What insights have I gained?
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+### What would I do better next time and with what anticipated results?
+
+### What theory proved to be useful and why? What have I learnt from this?
+N/A
+
+
+## Week 10
+
+### What have I learnt this week?
+
+### What do I 'now know' that I did not before?
+
+### What insights have I gained?
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+### What would I do better next time and with what anticipated results?
+
+### What theory proved to be useful and why? What have I learnt from this?
+N/A
+
+## Week 11
+
+### What have I learnt this week?
+
+### What do I 'now know' that I did not before?
+
+### What insights have I gained?
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+### What would I do better next time and with what anticipated results?
+
+### What theory proved to be useful and why? What have I learnt from this?
+N/A
+
+
+## Week 12
+
+### What have I learnt this week?
+
+### What do I 'now know' that I did not before?
+
+### What insights have I gained?
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+### What would I do better next time and with what anticipated results?
+
+### What theory proved to be useful and why? What have I learnt from this?
+N/A
